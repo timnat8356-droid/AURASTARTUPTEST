@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+httpx
+Pillow
+python-multipart
+gradio_client
